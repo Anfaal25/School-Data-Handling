@@ -28,11 +28,14 @@ Welcome to my School Data Handling project! This terminal-based application is d
 
 ## Examples
 1. Input:
+ ```
 - Please enter the high school name or code: Centennial High School
+```
 
 
 
 Output:
+```
 - Requested School Statistics
 
 - School Name: Centennial High School, School Code: 1224
@@ -40,13 +43,16 @@ Output:
 - Mean enrollment for Grade 11: 180
 - Mean enrollment for Grade 12: 150
 - Total number of students who graduated in the past three years: 900
-
+```
 
 2. Input:
+```
 - Please enter the high school name or code: 1679
+```
 
 
 Output:
+```
 - Requested School Statistics
 
 - School Name: Robert Thirsk School, School Code: 1679
@@ -54,7 +60,7 @@ Output:
 - Mean enrollment for Grade 11: 240
 - Mean enrollment for Grade 12: 200
 - Total number of students who graduated in the past three years: 1200
-
+```
 
 ## Conclusion
 The School Data Handling project demonstrates my Python programming skills in data processing, visualization, and object-oriented programming. By utilizing classes and manipulating CSV data, I've created an application that helps users analyze school enrollment trends over multiple years.
